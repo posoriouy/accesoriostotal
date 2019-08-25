@@ -1,0 +1,19 @@
+cajas y cobranzas
+4 cajas . 1 central
+fondo fijo 4 mil
+no hay caja chicha
+
+orden de pago no asociada a funcionario
+
+informe solo prestamos
+informe por dia y forma de pago
+
+
+No mostrar saldo de ingresos a bancos. 
+Mostrar movimientos para luego adjudicar al socio cuando se sepa a quien corresponde
+
+Se puede matchear los movimientos de banco con valor de cuotas pendientes para intentar
+identificar el pago?
+
+Fecha de pago y fecha valor elimina automáticamente la mora?
+
