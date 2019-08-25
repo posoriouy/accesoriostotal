@@ -69,7 +69,6 @@
 .btn-contacto {
     background-color: #622fca;
     color: #01ffff;
-    width: 140px;
 }
 .btn-contacto:hover{
     background-color: #835fce;
@@ -78,8 +77,7 @@
 .btn-iniciar {
     background-color: transparent;
     color: #622fca;
-    border: 2px solid #622fca;
-    width: 140px;   
+    border: 2px solid #622fca; 
 }
 .btn-iniciar:hover {
     background-color: #835fce;
